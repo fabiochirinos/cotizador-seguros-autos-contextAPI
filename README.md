@@ -1,5 +1,5 @@
 # 📌 Cotizador de seguros de autos en React
-¡Hola! Esta es una aplicación desarrollada con React, un cotizador interactiva que realiza el cálculo del seguro de un auto según su marca (Europea, Americana, Asiática), su año (20 últimos años) y su plan (basico o completo). 
+¡Hola! Esta es una aplicación desarrollada con React, un cotizador interactiva que realiza el cálculo del seguro de un auto según su marca (Europea, Americana, Asiática), su año (20 últimos años) y su plan (basico o completo). Se utilizó Context API así como también los hooks de useState, useRef, useCallback, useMemo.
 
 
 ## 🚀 Ejecutar la Aplicación
